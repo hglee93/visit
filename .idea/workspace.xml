@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2ca651d-105f-4630-b5c5-59458927db64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kubernetes/deployment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/kubernetes/deployment.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nKF62xkqIGADfPAgZEJp0V11CB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="VisitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="visit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="matching.VisitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ca651d-105f-4630-b5c5-59458927db64" name="Default Changelist" comment="" />
+      <created>1611130696455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611130696455</updated>
+      <workItem from="1611130699243" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2006" height="290" key="GridCell.Tab.0.bottom" timestamp="1611131839276">
+      <screen x="0" y="23" width="2048" height="1058" />
+    </state>
+    <state width="2006" height="290" key="GridCell.Tab.0.bottom/2048.223.1440.877/0.23.2048.1058@0.23.2048.1058" timestamp="1611131839276" />
+    <state width="2006" height="290" key="GridCell.Tab.0.center" timestamp="1611131839275">
+      <screen x="0" y="23" width="2048" height="1058" />
+    </state>
+    <state width="2006" height="290" key="GridCell.Tab.0.center/2048.223.1440.877/0.23.2048.1058@0.23.2048.1058" timestamp="1611131839275" />
+    <state width="2006" height="290" key="GridCell.Tab.0.left" timestamp="1611131839274">
+      <screen x="0" y="23" width="2048" height="1058" />
+    </state>
+    <state width="2006" height="290" key="GridCell.Tab.0.left/2048.223.1440.877/0.23.2048.1058@0.23.2048.1058" timestamp="1611131839274" />
+    <state width="2006" height="290" key="GridCell.Tab.0.right" timestamp="1611131839275">
+      <screen x="0" y="23" width="2048" height="1058" />
+    </state>
+    <state width="2006" height="290" key="GridCell.Tab.0.right/2048.223.1440.877/0.23.2048.1058@0.23.2048.1058" timestamp="1611131839275" />
+    <state x="689" y="256" width="670" height="675" key="run.anything.popup" timestamp="1611131839237">
+      <screen x="0" y="23" width="2048" height="1058" />
+    </state>
+    <state x="689" y="256" width="670" height="675" key="run.anything.popup/2048.223.1440.877/0.23.2048.1058@0.23.2048.1058" timestamp="1611131839237" />
   </component>
 </project>
